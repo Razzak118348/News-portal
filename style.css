@@ -1,0 +1,6 @@
+#catagory-bar-container{
+    background-color: rgba(128, 128, 128, 0.713);
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+}
